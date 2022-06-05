@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "name": "Site Institucional",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 500,
+      "services": [
+        {
+          "name": "Serviço 1",
+          "cost": "500",
+          "description": "Primeiro serviço adicionado",
+          "id": "b6a092dc-6dd7-4a83-aa3c-76fed9449a16"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Segurança do APP",
+      "budget": "10000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
